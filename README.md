@@ -23,3 +23,4 @@ This repository contains materials, code, and analyses related to my participati
 - Description: The goal of this competition was to explore mental health data and predict important patterns.
 
 
+Feel free to explore the code and share your feedback!
