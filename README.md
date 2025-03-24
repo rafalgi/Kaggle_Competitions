@@ -2,6 +2,7 @@
 <a href="https://www.kaggle.com/rafaaell/competitions">
     <img src="https://www.svgrepo.com/show/306288/kaggle.svg" width="150">
 </a>
+
 This repository contains materials, code, and analyses related to my participation in various Kaggle competitions.
 
 ## Active Competitions
