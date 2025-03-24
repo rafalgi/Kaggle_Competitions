@@ -1,5 +1,7 @@
 # Binary Prediction with a Rainfall Dataset
 
+[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e3)
+
 This project aims to predict the 'rainfall' target feature values (binary: 0 = no rain, 1 = rain) for each day of the year and maximize AUC-ROC by selecting meaningful features, experimenting with different models, and optimizing hyperparameters.
 
 ## Introduction
