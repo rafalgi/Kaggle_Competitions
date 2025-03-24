@@ -59,9 +59,6 @@ The dataset used in this project has been synthetically generated from a deep le
 - AUC (Area Under the Curve) measures how well a model differentiates between positive and negative classes.
 - A higher AUC indicates a better model.
 
-## Conclusion
-Summarize the findings and performance of the models used in the project.
-
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
