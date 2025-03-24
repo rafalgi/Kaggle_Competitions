@@ -1,5 +1,5 @@
 # Kaggle Competitions
-[![Kaggle Profile](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/rafaaell/competitions)
+[![Kaggle Profile](https://w7.pngwing.com/pngs/1002/482/png-transparent-kaggle-logos-and-brands-line-filled-icon-thumbnail.png)](https://www.kaggle.com/rafaaell/competitions)
 
 This repository contains materials, code, and analyses related to my participation in various Kaggle competitions.
 
