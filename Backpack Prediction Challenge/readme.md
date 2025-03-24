@@ -1,5 +1,7 @@
 # Backpack Price Prediction
 
+[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e2)
+
 This project aims to predict the prices of backpacks based on various factors such as brand, material, waterproof capability, number of compartments, and presence of a laptop compartment.
 
 ## Aims & Objectives
