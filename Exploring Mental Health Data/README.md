@@ -2,6 +2,8 @@
 
 ## Overview
 
+[Competition Link](https://www.kaggle.com/competitions/playground-series-s4e11
+
 This project focuses on analyzing mental health data using machine learning techniques. The dataset includes various factors such as academic pressure, work pressure, CGPA, study satisfaction, and financial stress, which contribute to mental health conditions. The objective is to build a predictive model that can classify mental health conditions based on the given data.
 
 ## Tools and Technologies Used
