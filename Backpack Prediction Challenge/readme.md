@@ -70,6 +70,3 @@ To run the notebook, ensure you have the required libraries installed and execut
 
 The notebook includes summary statistics and visualizations to understand the distribution of features and the target variable. The final model's performance is evaluated using metrics such as root mean squared error.
 
-## Conclusion
-
-This project demonstrates how various factors influence backpack prices and provides a methodology to predict prices using machine learning techniques.
